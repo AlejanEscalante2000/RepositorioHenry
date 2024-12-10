@@ -1,2 +1,2 @@
 # RepositorioHenry
-repositorio de practica del homework
+ESTO ES UNA PRACTIVA DEL HOMEWORK C2 PARA CLONARLO DE GIT HUB AL ESCRITORIO 
